@@ -1,0 +1,36 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "ano": 1899,
+            "genero": "Romance",
+            "isbn": "978-8520900235"
+        },
+        {
+            "id": 2,
+            "titulo": "O Pequeno Príncipe",
+            "autor": "Antoine de Saint-Exupéry",
+            "ano": 1943,
+            "genero": "Fábula",
+            "isbn": "978-8532521966"
+        },
+        {
+            "id": 3,
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "ano": 1949,
+            "genero": "Ficção Científica",
+            "isbn": "978-0451524935"
+        },
+        {
+            "id": 4,
+            "titulo": "Cem Anos de Solidão",
+            "autor": "Gabriel García Márquez",
+            "ano": 1967,
+            "genero": "Realismo Mágico",
+            "isbn": "978-8535910970"
+        }
+    ]
+}
